@@ -1,0 +1,10 @@
+^C:\USERS\BRUNO\PROJETOS\GITHUB DESKTOP REPOSITORIES\NAROCA_REESTRUTURADO\BUILD\WINDOWS\CMAKEFILES\EDD57BB623DA43DF05E7DDE554642AF2\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

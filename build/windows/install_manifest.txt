@@ -1,0 +1,15 @@
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/icudtl.dat
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/flutter_windows.dll
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/AssetManifest.json
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/assets/background.png
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/assets/card_images/agenda.png
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/assets/card_images/cadastrar_clientes.png
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/assets/card_images/cadastrar_vestidos.png
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/assets/card_images/carrinho.png
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/assets/card_images/rendimento.png
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/assets/entrada_background.png
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/FontManifest.json
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/NOTICES
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/flutter_assets/NOTICES.Z
+C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/runner/Release/data/app.so

@@ -93,7 +93,7 @@ class Menu extends StatelessWidget {
                   ? Expanded(
                       child: SingleChildScrollView(
                         child: SizedBox(
-                          width: 900,
+                          width: 800,
                           child: GridView.count(
                             shrinkWrap: true,
                             crossAxisCount: 3,
@@ -125,11 +125,11 @@ class Menu extends StatelessWidget {
                             mainAxisSpacing: 20,
                             padding: const EdgeInsets.fromLTRB(39, 110, 39, 53),
                             children: const [
-                              CardQueFalta(),
-                              CardQueFalta(),
-                              CardQueFalta(),
-                              CardQueFalta(),
-                              CardQueFalta(),
+                              CardCadastraCliente(),
+                              CardCadastraVestido(),
+                              CardCarrinho(),
+                              CardAgenda(),
+                              CardRendimento(),
                               CardQueFalta(),
                             ],
                           ),

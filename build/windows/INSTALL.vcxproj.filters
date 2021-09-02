@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Bruno\Projetos\GitHub Desktop Repositories\NaRoca_Reestruturado\build\windows\CMakeFiles\edd57bb623da43df05e7dde554642af2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{30941329-21E0-3AED-80B9-AAA94E56A3E4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

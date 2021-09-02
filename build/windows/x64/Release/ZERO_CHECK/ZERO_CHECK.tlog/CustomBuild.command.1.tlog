@@ -1,0 +1,10 @@
+^C:\USERS\BRUNO\PROJETOS\GITHUB DESKTOP REPOSITORIES\NAROCA_REESTRUTURADO\BUILD\WINDOWS\CMAKEFILES\EDD57BB623DA43DF05E7DDE554642AF2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/windows" "-BC:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Bruno/Projetos/GitHub Desktop Repositories/NaRoca_Reestruturado/build/windows/na_roca_diferenciado.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
