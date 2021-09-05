@@ -7,8 +7,6 @@ Qualquer dispositivo conectado ao banco tem acesso em tempo real às informaçõ
 O foco da aplicação é rodar em dispositivos com **`Windows`** e **`iOS`**, mas teoricamente, pode ser executado em
 sistemas `Linux`, `Android`, `iOS`, `Windows` e `MacOS`.
 ## Banco
-Utilizando RealTime Firebase Database enviando HTTP request.
-No Firebase será armazenado dados como:
-
+Ainda não decidido
 * Informações dos itens (_vestidos_): como imagens, além de nome e preço.
 * Informações dos clientes: nome, endereço e telefone.
