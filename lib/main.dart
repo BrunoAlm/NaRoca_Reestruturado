@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:na_roca_diferenciado/routes.dart';
+import 'package:na_roca_diferenciado/screens/clientes/cadastro_cliente.dart';
 import 'package:na_roca_diferenciado/screens/entrar.dart';
 import 'package:na_roca_diferenciado/screens/menu.dart';
 import 'package:responsive_framework/responsive_framework.dart';
@@ -34,6 +35,8 @@ class MyApp extends StatelessWidget {
               return const Entrar();
             case Routes.menu:
               return const Menu();
+            case Routes.cadastroCliente:
+              return const CadastroCliente();
             default:
               return const SizedBox.shrink();
           }

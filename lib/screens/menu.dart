@@ -1,6 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:na_roca_diferenciado/routes.dart';
 import 'package:na_roca_diferenciado/widgets/menu/cards/card_agenda.dart';
 import 'package:na_roca_diferenciado/widgets/menu/cards/card_cadastrar_cliente.dart';
 import 'package:na_roca_diferenciado/widgets/menu/cards/card_cadastrar_vestidos.dart';
@@ -124,8 +125,17 @@ class Menu extends StatelessWidget {
                             crossAxisSpacing: 20,
                             mainAxisSpacing: 20,
                             padding: const EdgeInsets.fromLTRB(39, 110, 39, 53),
-                            children: const [
-                              CardCadastraCliente(),
+                            children: [
+                              GestureDetector(
+                                onTap: () {
+                                  Navigator.pushNamed(
+                                      context, Routes.cadastroCliente);
+                                },
+                                child: MouseRegion(
+                                  cursor: SystemMouseCursors.click,
+                                  child: CardCadastraCliente(),
+                                ),
+                              ),
                               CardCadastraVestido(),
                               CardCarrinho(),
                               CardAgenda(),
